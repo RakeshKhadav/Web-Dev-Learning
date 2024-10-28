@@ -1,0 +1,21 @@
+* {
+    background-color: rgb(250, 233, 211);
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+.main_heading {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 50px;
+    background-color: antiquewhite;
+    border-radius: 15px;
+    border: 2px solid rgb(233, 209, 178);
+    padding: 5px;
+}
+
+.recipes_name{
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 500;
+    font-size: 20px;
+}

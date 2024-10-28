@@ -1,0 +1,39 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color:rgb(250, 233, 211);
+    box-sizing: border-box;
+}
+.recipe-heading {
+    font-size: 50px;
+    font-weight: bold;
+    background-color: antiquewhite;
+    border-radius: 15px;
+    border: 2px solid rgb(233, 209, 178);
+    padding: 5px;
+}
+
+.recipe-image {
+    border-radius: 10px;
+    box-shadow: rgb(244, 235, 165) 5px 5px 20px;
+}
+
+.recipe-description {
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.recipe-ingredient-heading {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.recipe-ingredients ,.recipe-step{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.recipe-steps-heading {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: -5px;
+}
